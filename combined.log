@@ -99,3 +99,1019 @@
 {"level":"error","message":"At controller level:Error while getting information from db: user is not defined","stack":"ReferenceError: user is not defined\n    at getUserByIdController (file:///C:/Code/RealTime_Personal_Finance_Dashboard/server/user-service/src/controller/userController.js:8:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)","timestamp":"2025-08-18T19:32:27.080Z"}
 {"level":"info","message":"user-service is running on port 5003","timestamp":"2025-08-18T19:34:03.706Z"}
 {"level":"info","message":"user-service is running on port 5003","timestamp":"2025-08-18T19:34:53.485Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error at user-service level fetching userDetails:","stack":"AggregateError [ECONNREFUSED]: \n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:11:23)","timestamp":"2025-08-22T18:05:54.788Z"}
+{"level":"info","message":"user-service is running on port undefined","timestamp":"2025-08-22T18:05:56.055Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error at user-service level fetching userDetails:","stack":"AggregateError [ECONNREFUSED]: \n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:11:23)","timestamp":"2025-08-22T18:07:26.455Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T18:07:27.333Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T18:08:23.900Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T18:51:39.731Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error at user-service level fetching userDetails:","stack":"AggregateError [ECONNREFUSED]: \n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:11:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:7:24)","timestamp":"2025-08-22T19:15:03.011Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error at user-service level fetching userDetails:","stack":"AggregateError [ECONNREFUSED]: \n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:11:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:7:24)","timestamp":"2025-08-22T19:15:03.028Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error at user-service level fetching userDetails:","stack":"AggregateError [ECONNREFUSED]: \n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:11:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:7:24)","timestamp":"2025-08-22T19:17:58.709Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error at user-service level fetching userDetails:","stack":"AggregateError [ECONNREFUSED]: \n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:11:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:7:24)","timestamp":"2025-08-22T19:17:58.765Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error at user-service level fetching userDetails:","stack":"AggregateError [ECONNREFUSED]: \n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:11:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:7:24)","timestamp":"2025-08-22T19:18:50.831Z"}
+{"code":"ECONNREFUSED","level":"error","message":"Error at user-service level fetching userDetails:","stack":"AggregateError [ECONNREFUSED]: \n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:11:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:7:24)","timestamp":"2025-08-22T19:18:51.206Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:19:18.662Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:26:39.876Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:34:21.080Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:34:31.323Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:34:45.039Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:34:51.012Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:34:58.184Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:35:20.769Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:35:33.436Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:35:37.421Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:35:51.058Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:35:58.311Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:36:06.368Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:36:11.063Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:36:30.462Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:36:39.371Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:37:28.008Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:37:46.436Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:38:18.690Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:43:24.303Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:44:20.889Z"}
+{"level":"error","message":"Error at user-service level updating userdetails Cannot convert undefined or null to object","stack":"TypeError: Cannot convert undefined or null to object\n    at Function.keys (<anonymous>)\n    at updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:27:19)\n    at file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:40:1\n    at ModuleJob.run (node:internal/modules/esm/module_job:262:25)\n    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:485:26)\n    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:109:5)","timestamp":"2025-08-22T19:47:09.847Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:47:10.341Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:47:17.499Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:47:23.931Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:47:31.976Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:47:36.972Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:47:46.145Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:48:07.199Z"}
+{"level":"error","message":"Error at user-service level updating userdetails Cannot convert undefined or null to object","stack":"TypeError: Cannot convert undefined or null to object\n    at Function.keys (<anonymous>)\n    at updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:33:31)","timestamp":"2025-08-22T19:48:18.215Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:48:18.597Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:48:33.811Z"}
+{"level":"error","message":"Error at user-service level updating userdetails f is not defined","stack":"ReferenceError: f is not defined\n    at updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:35:39)","timestamp":"2025-08-22T19:48:48.811Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:48:49.008Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:48:55.968Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:49:02.523Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:49:11.781Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:49:18.025Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:49:29.273Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:49:33.698Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:49:42.668Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:49:50.513Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:49:56.737Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:50:04.840Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:50:09.588Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:50:17.581Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:50:21.436Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:50:32.829Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:50:46.463Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:51:10.513Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:51:28.876Z"}
+{"code":"08P01","file":"postgres.c","length":137,"level":"error","line":"1676","message":"Error at user-service level updating userdetails bind message supplies 2 parameters, but prepared statement \"\" requires 3","name":"error","routine":"exec_bind_message","severity":"ERROR","stack":"error: bind message supplies 2 parameters, but prepared statement \"\" requires 3\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-08-22T19:51:31.329Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:51:35.416Z"}
+{"code":"22P02","file":"uuid.c","length":135,"level":"error","line":"133","message":"Error at user-service level updating userdetails invalid input syntax for type uuid: \"123\"","name":"error","routine":"string_to_uuid","severity":"ERROR","stack":"error: invalid input syntax for type uuid: \"123\"\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-08-22T19:51:36.830Z","where":"unnamed portal parameter $3 = '...'"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:51:54.326Z"}
+{"code":"22P02","file":"uuid.c","length":135,"level":"error","line":"133","message":"Error at user-service level updating userdetails invalid input syntax for type uuid: \"123\"","name":"error","routine":"string_to_uuid","severity":"ERROR","stack":"error: invalid input syntax for type uuid: \"123\"\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-08-22T19:51:55.713Z","where":"unnamed portal parameter $3 = '...'"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:52:21.957Z"}
+{"code":"22P02","file":"uuid.c","length":135,"level":"error","line":"133","message":"Error at user-service level updating userdetails invalid input syntax for type uuid: \"123\"","name":"error","routine":"string_to_uuid","severity":"ERROR","stack":"error: invalid input syntax for type uuid: \"123\"\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-08-22T19:52:23.690Z","where":"unnamed portal parameter $3 = '...'"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:53:00.730Z"}
+{"code":"22P02","file":"uuid.c","length":135,"level":"error","line":"133","message":"Error at user-service level updating userdetails invalid input syntax for type uuid: \"123\"","name":"error","routine":"string_to_uuid","severity":"ERROR","stack":"error: invalid input syntax for type uuid: \"123\"\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-08-22T19:53:02.426Z","where":"unnamed portal parameter $3 = '...'"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:53:11.186Z"}
+{"code":"22P02","file":"uuid.c","length":135,"level":"error","line":"133","message":"Error at user-service level updating userdetails invalid input syntax for type uuid: \"123\"","name":"error","routine":"string_to_uuid","severity":"ERROR","stack":"error: invalid input syntax for type uuid: \"123\"\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-08-22T19:53:11.870Z","where":"unnamed portal parameter $3 = '...'"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:53:57.562Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T19:55:30.979Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T20:01:45.406Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T20:01:52.413Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T20:02:02.080Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T20:02:08.460Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T20:02:17.257Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T20:02:24.997Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-22T20:03:04.975Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T15:41:58.697Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T15:59:38.241Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T15:59:52.730Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:00:13.752Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:00:46.586Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:00:59.078Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:01:19.673Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:01:28.014Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:01:32.912Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:01:37.811Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:01:41.008Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:01:50.212Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:02:49.444Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:02:54.376Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:03:03.119Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:03:06.910Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:03:12.758Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:03:26.058Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:03:30.897Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:03:35.511Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:03:46.597Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:03:58.354Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:04:06.117Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:04:09.572Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:04:14.904Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:04:21.961Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-24T16:04:45.220Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-25T12:17:53.584Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-25T12:55:54.114Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-25T17:44:37.031Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-26T18:07:19.906Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-27T14:45:44.871Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-28T00:11:53.924Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-28T08:22:03.216Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-28T18:37:07.427Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-29T08:32:45.450Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-08-29T18:41:43.431Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T09:16:17.796Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T09:31:00.848Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T15:32:26.952Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T15:50:16.040Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T15:50:37.176Z"}
+{"level":"error","message":"Error at user-service level updating userdetails No valid fields to update","stack":"Error: No valid fields to update\n    at updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:29:56)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-04T15:53:56.937Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T15:54:57.009Z"}
+{"level":"error","message":"Error at user-service level updating userdetails No valid fields to update","stack":"Error: No valid fields to update\n    at updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:30:56)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-04T15:55:02.850Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T15:56:36.187Z"}
+{"level":"error","message":"Error at user-service level updating userdetails No valid fields to update","stack":"Error: No valid fields to update\n    at updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:30:56)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-04T15:56:36.905Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T15:57:19.323Z"}
+{"level":"error","message":"Error at user-service level updating userdetails No valid fields to update","stack":"Error: No valid fields to update\n    at updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:30:56)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-04T15:57:32.022Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T16:00:05.993Z"}
+{"level":"error","message":"Error at user-service level updating userdetails Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-09-04T16:22:51.622Z"}
+{"level":"error","message":"Error at user-service level fetching userDetails: Connection terminated unexpectedly","stack":"Error: Connection terminated unexpectedly\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:12:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:9:24)","timestamp":"2025-09-04T16:24:51.081Z"}
+{"level":"error","message":"Error at user-service level updating userdetails Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-09-04T16:25:07.677Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T16:25:53.051Z"}
+{"level":"error","message":"Error at user-service level updating userdetails Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-09-04T16:26:01.555Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T16:29:33.886Z"}
+{"level":"error","message":"Error at user-service level updating userdetails Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle\n    at JSON.stringify (<anonymous>)\n    at updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:26:57)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:20:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-04T16:29:37.465Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T16:30:45.950Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T16:34:24.703Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:11:24.630Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:13:21.594Z"}
+{"level":"error","message":"Error at user-service level updating userdetails Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle","stack":"TypeError: Converting circular structure to JSON\n    --> starting at object with constructor 'Socket'\n    |     property 'parser' -> object with constructor 'HTTPParser'\n    --- property 'socket' closes the circle\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async updateUser (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:41:24)","timestamp":"2025-09-04T17:18:58.959Z"}
+{"level":"error","message":"Error at user-service level fetching userDetails: Connection terminated unexpectedly","stack":"Error: Connection terminated unexpectedly\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:12:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:9:24)","timestamp":"2025-09-04T17:21:39.165Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:27:40.160Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:27:58.113Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:28:55.281Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:29:23.639Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:30:57.154Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:31:25.891Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:41:14.235Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:47:09.487Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:48:55.482Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T17:49:09.976Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T18:10:33.047Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T18:19:27.289Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T18:23:25.462Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-04T18:24:06.502Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-05T05:42:01.313Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-05T07:51:30.333Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-05T07:54:31.723Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-05T08:58:22.442Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-05T08:58:56.702Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-05T08:59:16.823Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-05T11:41:16.610Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T00:42:00.659Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T02:52:45.088Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:12:03.235Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:39:47.059Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:40:57.184Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:41:04.016Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:41:12.536Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:41:30.847Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:42:03.060Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:42:31.798Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:42:38.351Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:47:17.274Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:47:44.128Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:48:00.462Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:49:13.761Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:49:21.011Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:49:42.781Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T03:53:24.513Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T04:42:29.470Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T04:53:59.455Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:09:37.902Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:09:45.287Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:10:32.158Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:10:46.970Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:10:53.059Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:11:06.098Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:11:09.930Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:11:28.069Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:11:39.248Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:11:53.780Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:12:03.283Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:12:10.373Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:12:15.214Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:12:19.291Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:18:37.426Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:20:57.478Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:21:58.910Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:25:07.257Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:29:21.973Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:29:40.253Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:31:39.330Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:33:27.942Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:41:22.844Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:41:23.036Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:41:23.569Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:41:23.642Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:41:24.642Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:41:24.672Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-06T05:42:32.393Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:42:35.339Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:42:35.355Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:42:35.931Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:42:35.936Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:42:37.022Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:42:37.025Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:43:08.029Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:43:08.033Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:43:08.594Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:43:08.599Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:43:09.719Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:43:09.723Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:45:07.817Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:45:07.822Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:45:08.363Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:45:08.367Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:45:09.384Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 getRedisClient.get is not a function","stack":"TypeError: getRedisClient.get is not a function\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:16:44)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:291:5)","timestamp":"2025-09-06T05:45:09.387Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-07T06:53:27.318Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-07T06:56:05.884Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-07T07:15:19.651Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-07T07:16:14.946Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-07T07:16:40.133Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 The client is closed","stack":"Error: The client is closed\n    at Class.sendCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:532:35)\n    at fn (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:498:40)\n    at Class._executeCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:503:33)\n    at Class.get (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:31:31)\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:17:41)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)","timestamp":"2025-09-07T07:16:42.914Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 The client is closed","stack":"Error: The client is closed\n    at Class.sendCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:532:35)\n    at fn (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:498:40)\n    at Class._executeCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:503:33)\n    at Class.get (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:31:31)\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:17:41)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)","timestamp":"2025-09-07T07:16:42.932Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 The client is closed","stack":"Error: The client is closed\n    at Class.sendCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:532:35)\n    at fn (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:498:40)\n    at Class._executeCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:503:33)\n    at Class.get (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:31:31)\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:17:41)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)","timestamp":"2025-09-07T07:16:43.490Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 The client is closed","stack":"Error: The client is closed\n    at Class.sendCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:532:35)\n    at fn (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:498:40)\n    at Class._executeCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:503:33)\n    at Class.get (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:31:31)\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:17:41)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)","timestamp":"2025-09-07T07:16:43.722Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 The client is closed","stack":"Error: The client is closed\n    at Class.sendCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:532:35)\n    at fn (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:498:40)\n    at Class._executeCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:503:33)\n    at Class.get (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:31:31)\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:17:41)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)","timestamp":"2025-09-07T07:16:44.507Z"}
+{"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 The client is closed","stack":"Error: The client is closed\n    at Class.sendCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:532:35)\n    at fn (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:498:40)\n    at Class._executeCommand (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:503:33)\n    at Class.get (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\@redis\\client\\dist\\lib\\client\\index.js:31:31)\n    at redisGet (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/utils/redisUtil.js:17:41)\n    at verifySession (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/middleware/verifySession.js:14:35)\n    at Layer.handleRequest (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\router\\index.js:435:11)","timestamp":"2025-09-07T07:16:44.739Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-07T07:17:30.420Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-07T07:17:33.646Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-07T07:17:33.647Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-07T07:18:11.829Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-07T07:18:11.873Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-07T07:19:06.476Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-07T07:19:06.573Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-09T03:31:14.637Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T03:47:30.064Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T03:47:30.073Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:00:13.963Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:06:52.424Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:06:53.109Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:06:53.152Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:06:53.930Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:06:53.933Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:07:28.328Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:07:28.363Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:08:41.901Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:08:41.908Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:09:00.735Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:09:00.739Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:09:12.304Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:09:12.338Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:10:36.861Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:10:36.874Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:11:03.723Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:11:03.754Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:11:29.411Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:11:29.419Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:11:35.014Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:11:35.015Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:11:59.171Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:11:59.189Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:12:44.676Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:12:44.682Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:12:57.339Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:12:57.347Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:14:13.179Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:14:13.216Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:14:44.178Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:16:05.151Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:16:05.192Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:35:36.715Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:35:36.739Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:40:25.288Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:40:25.299Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:41:37.407Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:41:37.414Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:43:42.642Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:43:42.649Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:44:22.076Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:44:22.085Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:47:43.213Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:47:43.799Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:47:44.208Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:47:44.371Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:47:44.539Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:47:44.698Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:47:44.884Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:47:44.959Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:48:10.900Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:49:13.749Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:49:16.407Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:49:16.843Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:49:17.071Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:49:17.218Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:49:17.442Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:49:32.635Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:49:33.692Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:54:54.160Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T04:54:55.845Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:04:03.745Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:07:57.241Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:07:58.955Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:18:33.737Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:19:12.238Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:19:12.284Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:33:03.762Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:39:22.509Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:41:39.124Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:41:40.092Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T05:47:33.956Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T06:02:03.880Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T06:05:18.007Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T06:05:18.059Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:12:55.952Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:12:55.979Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:15:55.457Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:15:55.475Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:16:08.962Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:16:08.966Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:24:12.691Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:25:16.747Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:25:16.794Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:26:12.231Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:26:12.249Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:27:16.094Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:27:16.115Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:38:42.636Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:38:43.290Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:38:44.192Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:38:44.204Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T07:53:12.917Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:01:00.868Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:01:01.509Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:01:01.546Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:01:02.569Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:01:02.576Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:01:25.777Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:03:11.063Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:03:50.611Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:07:42.877Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:21:25.989Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:21:26.006Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:22:12.701Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:23:49.814Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:23:49.827Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:25:34.203Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:25:34.243Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:36:42.676Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:50:46.755Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:50:46.767Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:51:12.734Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:51:23.866Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:51:23.877Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:51:26.980Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:51:27.043Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:53:12.015Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:53:12.026Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:55:29.256Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T08:55:29.265Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-09T10:34:46.516Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-09T11:20:25.907Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T11:40:53.780Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T11:40:55.019Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T11:41:22.369Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T11:44:22.473Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T11:45:41.992Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T11:54:57.412Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T11:55:05.482Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T11:55:05.553Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:14:12.879Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:14:12.983Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:15:45.204Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:18:18.200Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:23:58.396Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:24:05.766Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:49:16.414Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:49:16.467Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:49:35.269Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:50:23.833Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T12:52:43.123Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T13:03:28.976Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T13:36:54.618Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T13:36:54.645Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T13:40:07.291Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T13:51:07.713Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:05:37.794Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:20:07.751Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:29:02.768Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:29:02.812Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:29:14.696Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:31:03.750Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:31:03.763Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:31:12.212Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:33:32.080Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:34:10.770Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:34:10.788Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:34:22.192Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:34:37.815Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:34:41.547Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:35:46.106Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:35:46.182Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:35:57.153Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:40:33.539Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:40:33.553Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:40:45.385Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:41:01.004Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:41:01.094Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T14:49:07.922Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T15:03:37.846Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T15:03:40.615Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-09T15:55:18.959Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:14:04.733Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:14:04.745Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:14:22.569Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:15:31.222Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:19:07.234Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:19:07.245Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:24:43.922Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:26:20.474Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:26:20.534Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:26:35.607Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:30:01.862Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:30:01.876Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:30:34.236Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:31:26.446Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:31:38.526Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:33:27.720Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:34:00.395Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:34:00.416Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:37:17.802Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:37:17.877Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:37:24.102Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:38:29.738Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:38:29.813Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:38:41.303Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:40:24.282Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:40:24.356Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:40:30.490Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:41:23.169Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:41:23.183Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:41:47.344Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:41:47.359Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:46:56.390Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:46:56.451Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-09T16:47:59.166Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T13:13:35.414Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T13:13:35.426Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T13:14:26.856Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T13:43:40.444Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T13:43:40.458Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T13:53:28.023Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T13:53:28.039Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T13:58:03.915Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:12:33.857Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:20:47.493Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:20:47.514Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:27:03.799Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:32:04.517Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:32:05.681Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:41:33.763Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:45:19.207Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:45:19.271Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:49:19.926Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:52:39.813Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:52:39.896Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:56:03.721Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-10T14:58:12.517Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-11T04:46:38.959Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T04:47:51.262Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T04:47:51.596Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T04:52:29.649Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T04:59:33.285Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:00:51.206Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:01:17.901Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:09:46.250Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:10:52.452Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:11:18.043Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:11:18.084Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:13:00.548Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:15:47.870Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:19:23.786Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T05:30:17.945Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-11T06:15:28.995Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-11T06:38:07.107Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T06:38:48.308Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T06:38:48.317Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T06:53:06.711Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:07:36.677Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:11:59.379Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:11:59.469Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:21:09.010Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:21:09.949Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:21:10.032Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:21:11.795Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:21:11.808Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:22:09.067Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:34:34.891Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:34:34.930Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:36:39.931Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:39:00.041Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:39:00.045Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T07:40:24.076Z"}
+{"code":"ECONNRESET","errno":-4077,"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-09-11T07:53:32.590Z"}
+{"code":"ECONNRESET","errno":-4077,"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-09-11T07:53:32.591Z"}
+{"code":"ECONNRESET","errno":-4077,"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-09-11T07:53:32.592Z"}
+{"code":"ECONNRESET","errno":-4077,"level":"error","message":"REDIS get error for session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00 read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-09-11T07:53:32.592Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:07:27.597Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:07:27.610Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:07:54.592Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:07:54.623Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:08:07.689Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:08:07.701Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:18:53.262Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:21:49.832Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:23:58.477Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:24:41.933Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:25:43.010Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:25:43.068Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:26:14.590Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:26:38.232Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:26:38.398Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:26:38.844Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:26:41.157Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:26:41.346Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:26:41.786Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T08:27:38.445Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:07:04.493Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:07:04.584Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:08:04.615Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:11:08.931Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:13:05.290Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:13:05.352Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:13:26.144Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:21:24.900Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:35:54.722Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:50:25.061Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:57:11.468Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T09:57:11.469Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T10:04:55.787Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T10:19:25.823Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T10:33:55.813Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T10:48:25.681Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:02:55.608Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:07:57.993Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:17:25.824Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:20:21.026Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:20:21.076Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:31:55.704Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:32:55.603Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:32:55.616Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:33:08.592Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:33:08.607Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:33:51.328Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:33:51.366Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:39:38.650Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:39:38.687Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:46:25.749Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:47:16.812Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:47:16.865Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:48:53.401Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:48:53.692Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:50:16.558Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:50:16.569Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:52:50.356Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:52:50.365Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:56:10.044Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:56:10.063Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:57:41.372Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T11:57:41.373Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:00:55.693Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:02:28.620Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:02:28.726Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:02:50.111Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:14:59.977Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:01.690Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:02.372Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:02.674Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:02.856Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:05.124Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:05.657Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:05.882Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:06.885Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:07.152Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:07.323Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:07.519Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:07.710Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:07.917Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:20.901Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:20.944Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:15:26.171Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:29:57.486Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:40:47.077Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:40:47.105Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:46:12.760Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:46:12.818Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:50:03.860Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T12:50:03.942Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:00:27.876Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:07:11.080Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:07:11.141Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:13:14.223Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:13:14.283Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:14:57.621Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:15:59.006Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:15:59.022Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:24.736Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:24.750Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:36.892Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:38.169Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:38.403Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:38.831Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:39.012Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:39.223Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:39.407Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:17:39.577Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:19:11.465Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:19:11.492Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:19:44.547Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:19:44.595Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:29:27.628Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:34:15.587Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:34:15.615Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:37:56.186Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:37:56.203Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:43:57.651Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:58:27.584Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:58:49.241Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T13:58:49.302Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:10:16.852Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:10:16.858Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:12:57.650Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:45:51.440Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:45:51.446Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:50:53.991Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:50:54.005Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:51:58.004Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:51:58.020Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T14:59:57.858Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:14:27.689Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:15:41.553Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:15:41.654Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:20:55.574Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:20:55.582Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:21:02.636Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:25:38.879Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:25:38.974Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:28:57.904Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:43:15.380Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:43:15.404Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:43:28.019Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T15:57:58.926Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:12:28.795Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:23:34.598Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:23:34.608Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:23:43.960Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:23:44.008Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:24:08.582Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:24:08.660Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:26:58.777Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:30:42.285Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:30:42.327Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:41:28.810Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T16:55:58.762Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:10:28.855Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:11:55.675Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:24:58.813Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:25:26.942Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:39:28.849Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:41:09.820Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:41:09.857Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:41:21.033Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:42:42.518Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:42:45.276Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:42:45.824Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:42:46.033Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:44:05.846Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:44:06.571Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:44:06.839Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:44:07.073Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:44:07.267Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:47:02.060Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:47:02.110Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:47:44.475Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:49:19.885Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T17:53:59.013Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T18:15:54.364Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T18:15:54.373Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T18:15:58.483Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T18:15:58.542Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T18:17:03.494Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-11T18:17:03.815Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-12T03:25:39.896Z"}
+{"level":"info","message":"REDIS GET: session:d7484bef-b0a5-4f62-be6b-7a1a9f291e00","timestamp":"2025-09-12T03:25:39.923Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-12T03:39:14.078Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-09-12T04:56:18.362Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-09-12T04:56:18.373Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-09-12T04:56:23.537Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-09-12T04:56:23.593Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T05:22:37.281Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T05:22:37.365Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T05:23:05.183Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T05:23:05.198Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T05:33:33.776Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-12T06:36:02.661Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T06:39:47.932Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T06:39:47.999Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T06:51:23.701Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T06:52:21.787Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T06:52:21.808Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T06:55:34.195Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T06:55:34.207Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:02:12.806Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:02:12.833Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:39.169Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:41.177Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:42.267Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:42.837Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:43.023Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:43.330Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:43.599Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:44.180Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:44.412Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:05:53.752Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:30.196Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:36.806Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:37.260Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:37.786Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:38.826Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:39.196Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:39.457Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:39.642Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:39.898Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:40.112Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:40.324Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:40.496Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:06:40.851Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:07:44.368Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:07:45.006Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:07:45.198Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:08:12.443Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:08:14.133Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:08:14.520Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:08:14.707Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:08:14.877Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:08:15.054Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:08:15.166Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:08:15.336Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:08:15.554Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:18:31.563Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:18:31.611Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:18:37.793Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:18:56.866Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:19:00.401Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:19:00.583Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:19:00.796Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:20:00.859Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:20:23.708Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:22:41.561Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:22:51.192Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-12T07:32:48.458Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T07:23:03.497Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T07:24:48.603Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T07:24:48.609Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T07:37:55.777Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T07:50:39.998Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T07:50:41.415Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T07:50:42.594Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T07:52:25.719Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T08:00:59.090Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T08:01:16.255Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T08:01:16.260Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T09:05:13.625Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-09-13T09:05:49.560Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-09-13T09:05:49.599Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-09-13T09:06:02.094Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-09-13T09:13:29.098Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-09-13T09:13:31.970Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-09-13T09:19:53.482Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-09-13T09:19:59.712Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-09-13T09:21:13.660Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-09-13T09:34:29.904Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:09:37.598Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:09:37.651Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:13:39.532Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:16:52.374Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:16:53.458Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:16:53.729Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:16:54.012Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:16:54.356Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:21:45.219Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:23:52.746Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:26:48.682Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:34:23.813Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:38:22.851Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:52:52.743Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T11:55:53.582Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:01:38.859Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:01:38.928Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:05:29.632Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:07:22.687Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:21:26.319Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:21:26.382Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:21:52.784Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:39:43.465Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:39:43.473Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:39:53.388Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-13T12:39:56.904Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:13:04.181Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:13:30.604Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:15:03.888Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:21:57.204Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:34:01.716Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:35:05.423Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:35:48.640Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:37:44.997Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:37:49.192Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:38:15.297Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:39:55.906Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:40:00.539Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:40:04.925Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:40:08.735Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:40:22.719Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:40:34.113Z"}
+{"code":"42601","file":"scan.l","length":90,"level":"error","line":"1188","message":"Error at user-service level fetching userDetails: syntax error at or near \"{\"","name":"error","position":"17","routine":"scanner_yyerror","severity":"ERROR","stack":"error: syntax error at or near \"{\"\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:12:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-09-13T14:40:37.941Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:40:38.293Z"}
+{"code":"42601","file":"scan.l","length":90,"level":"error","line":"1188","message":"Error at user-service level fetching userDetails: syntax error at or near \"{\"","name":"error","position":"17","routine":"scanner_yyerror","severity":"ERROR","stack":"error: syntax error at or near \"{\"\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:12:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:4:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-09-13T14:40:42.079Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:40:57.433Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:41:01.563Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:41:05.779Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:42:44.500Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:46:05.637Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:46:09.674Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:48:04.427Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T14:48:18.891Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T14:55:39.568Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-13T15:06:21.356Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:11:02.549Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:11:02.884Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:11:04.532Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:11:04.855Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:11:06.538Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:11:06.877Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:09.323Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:09.655Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:10.162Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:10.495Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:11.503Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:11.847Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:53.335Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:53.659Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:54.167Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:54.492Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:55.512Z"}
+{"level":"info","message":"REDIS GET: session:316cb919-afe1-4f1e-9947-254f7c63a8ac","timestamp":"2025-09-13T15:12:55.834Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-18T14:11:42.662Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-18T14:11:42.864Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-22T13:32:57.318Z"}
+{"level":"info","message":"REDIS GET: session:a62ab361-87ad-4311-9d63-d778e834076b","timestamp":"2025-09-22T15:13:41.306Z"}
+{"level":"info","message":"REDIS GET: session:a62ab361-87ad-4311-9d63-d778e834076b","timestamp":"2025-09-22T15:13:41.322Z"}
+{"level":"info","message":"REDIS GET: session:a62ab361-87ad-4311-9d63-d778e834076b","timestamp":"2025-09-22T15:28:01.375Z"}
+{"level":"info","message":"REDIS GET: session:a62ab361-87ad-4311-9d63-d778e834076b","timestamp":"2025-09-22T15:42:31.432Z"}
+{"level":"info","message":"REDIS GET: session:a62ab361-87ad-4311-9d63-d778e834076b","timestamp":"2025-09-22T15:57:01.306Z"}
+{"level":"info","message":"REDIS GET: session:a62ab361-87ad-4311-9d63-d778e834076b","timestamp":"2025-09-22T16:11:32.560Z"}
+{"level":"info","message":"REDIS GET: session:a62ab361-87ad-4311-9d63-d778e834076b","timestamp":"2025-09-22T16:26:03.630Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-22T19:09:07.007Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-09-29T05:03:54.455Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T05:04:02.730Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T05:04:02.735Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T05:17:48.366Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T05:32:37.656Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T05:47:04.467Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T06:01:34.201Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T06:16:04.222Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T06:30:34.189Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T06:45:04.205Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-09-29T06:59:34.188Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-06T10:25:52.105Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-06T10:25:52.117Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-06T10:40:18.281Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-07T04:10:42.174Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-07T04:11:24.304Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-07T04:11:24.334Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-07T04:14:40.326Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-07T04:14:40.362Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-07T04:24:02.424Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-07T04:38:32.458Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-07T04:53:28.771Z"}
+{"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-07T05:08:01.077Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-07T05:11:11.852Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-07T05:11:11.863Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-07T05:25:39.306Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-07T05:40:10.340Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-07T05:54:41.153Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:12:40.276Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:12:40.283Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:17:52.856Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:17:52.875Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:21:15.731Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:21:15.785Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:24:33.630Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:24:33.648Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:27:09.525Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:30:32.487Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:30:32.488Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:44:23.808Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:44:23.810Z"}
+{"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2025-10-07T11:45:02.764Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:10:42.724Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:10:42.741Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:10:45.822Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:10:45.828Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:10:46.635Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:10:46.645Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:10:46.901Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:10:46.905Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:10:48.570Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:10:48.571Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:10:48.821Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:10:49.892Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-08T05:12:11.708Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:12:19.712Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:12:19.719Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:12:22.840Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:12:22.847Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:12:23.640Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:12:23.649Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:12:23.891Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:12:23.902Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:12:25.173Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:12:25.187Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:12:25.423Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:12:25.438Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:14:10.757Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:14:10.763Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:14:13.803Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:14:13.804Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:14:15.079Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:14:15.080Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:14:15.329Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:14:15.332Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:14:16.120Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:14:16.134Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:14:16.369Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:14:16.498Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:14:17.658Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:14:17.783Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:14:17.906Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:20:24)","timestamp":"2025-10-08T05:14:18.033Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-08T05:17:16.447Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-08T05:17:46.770Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:17:49.442Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:17:49.452Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:17:52.134Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:17:52.941Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:17:53.085Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:17:53.193Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:17:53.889Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:17:54.142Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:17:54.502Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:17:54.757Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:17:55.445Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:17:55.697Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-08T05:21:50.911Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:21:51.231Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:21:51.241Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:21:53.544Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:21:53.555Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:21:54.885Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:21:54.885Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:21:55.138Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:21:55.147Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:21:56.539Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:21:56.539Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:21:56.791Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:21:56.795Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-08T05:31:39.412Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:34:41.095Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:34:41.097Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:34:43.958Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:34:43.969Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:34:44.777Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:34:44.778Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:34:45.030Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:34:45.033Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:34:46.342Z"}
+{"level":"info","message":"REDIS GET: session:undefined","timestamp":"2025-10-08T05:34:46.342Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:34:46.593Z"}
+{"level":"error","message":"Something went wrong! please try again later: User not found at service level","stack":"Error: User not found at service level\n    at getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:5:21)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:21:24)","timestamp":"2025-10-08T05:34:46.598Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-08T07:04:30.272Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-08T07:04:51.240Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-08T07:04:51.250Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-09T03:48:46.394Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-09T03:48:46.407Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-09T04:03:10.587Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-09T04:17:40.316Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-09T04:31:02.255Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-09T04:31:02.260Z"}
+{"level":"info","message":"REDIS GET: session:4412f3d3-2615-43a6-a8d6-bb4652104cf5","timestamp":"2025-10-09T04:32:10.428Z"}

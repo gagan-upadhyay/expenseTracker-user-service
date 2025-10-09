@@ -1,11 +1,17 @@
 import express from 'express';
 import verifySession from '../../middleware/verifySession.js';
-import { getUserByIdController } from '../controller/userController.js';
+import { deleteAccountByUserId, getUserByIdController, updateUserController } from '../controller/userController.js';
+// import { updateUser } from '../model/userModel.js';
 
 
 const userRouter = express.Router();
 
+
+// Route Starting point: /api/v1/user
 userRouter.get('/', verifySession,getUserByIdController);
+userRouter.delete('/delete-user',verifySession, deleteAccountByUserId);
+userRouter.put('/update-user', verifySession, updateUserController);
+// userRouter.post()
 
 
 export default userRouter;
