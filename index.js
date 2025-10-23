@@ -10,12 +10,13 @@ import { helmetConfig } from './config/helmet.config.js';
 
 const app = express();
 
-
+app.use(express.json());
 app.use(compression());
 app.use(cookieParser());
 const corsOptions = {origin:['http://localhost:3000', 'https://expense-tracker-6afeksr0j-gagans-projects-00cb1a77.vercel.app','http://192.168.0.105:3000'], credentials:true};
 app.use(cors(corsOptions));
 app.use(helmetConfig);
+
 // app.use(sessionMiddleware);
 app.get('/', (req, res)=>{
     return res.status(200).json({message:"Welcome to the User-service"});

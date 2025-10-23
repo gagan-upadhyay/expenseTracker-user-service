@@ -21,7 +21,8 @@ const verifySession = async(req, res, next)=>{
         // console.log("Value of req.user from verifySession of user-service:\n",req.user);
         next();
     }catch(err){
-        res.status(401).json({message:'Unauthorized!'});
+        console.error("Error caught at verifySession:", err);
+        res.status(401).json({message:'Unauthorized!', error:err});
     }
 };
 

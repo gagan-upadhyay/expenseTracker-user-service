@@ -19,6 +19,30 @@ export async function findById(id){
     }
 }
 
+export async function checkPasswordType(id){
+    try{
+        const userQuery = 
+        `
+        SELECT auth_type FROM users WHERE id=$1
+        `
+        const user = await db(userQuery, [id]);
+        console.log("Value of auth_type feom user model:\n", user.rows[0]?.auth_type);
+        if(user.rows[0]?.auth_type === 'PASSWORD') return 'PASSWORD';
+        if(user.rows[0]?.auth_type === 'GOOGLE') return 'GOOGLE';
+    }catch(err){
+        logger.error('Error while fetching user Auth_type', err);
+        console.error("At model level",err);
+        return err;
+    }
+}
+
+export const getUserCreds = async(id)=>{
+    console.log('Inside getUserCreds......');
+  const userQuery = `SELECT password from users WHERE id=$1`;
+  const result = await db(userQuery, [id]);
+  console.log("Value of result from userModel:\n", result.rows[0].password);
+  return result.rows[0].password;
+}
 
 // - updateUser(userId, data)
 export async function updateUser(userId,data){
@@ -65,11 +89,20 @@ export async function deleteUser(userId){
 }
 
 // - changePassword(userId, oldPassword, newPassword)
-// export async function changePassword(userId, oldPassword, newPassword){
-//     try{
-//         const query = 
-//     }
-// }
+export async function changeUserPassword(userId, newHashedPassword){
+    try{
+        console.log("Value of userID and newHashedPasswpord", userId, newHashedPassword);
+        const query = `
+        UPDATE users SET password=$1 WHERE ID=$2
+        RETURNING *
+        `
+        const result = await db(query, [newHashedPassword, userId]);
+        console.log("value of result freom changePassword:\n", result);
+        return result.rows[0];
+    }catch(err){
+        logger.error('Error while changing user password');
+    }
+}
 
 
 
