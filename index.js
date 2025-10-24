@@ -28,3 +28,5 @@ app.use('/api/v1/user',userRouter);
 app.listen(process.env.USER_SERVICE_PORT, ()=>{
     logger.info(`user-service is running on port ${process.env.USER_SERVICE_PORT}`)
 })
+
+export default app;

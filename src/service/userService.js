@@ -7,7 +7,7 @@ export async function getUserById(userId){
     if(!user) throw new Error('User not found at service level');
     return user;
 }
-const getUserDBPassword = async(id)=>{
+export const getUserDBPassword = async(id)=>{
     const dbPassword= await getUserCreds(id);
     return dbPassword;
 }

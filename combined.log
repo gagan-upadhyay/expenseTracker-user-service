@@ -1978,3 +1978,201 @@
 {"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-23T04:24:34.715Z"}
 {"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-23T04:24:45.011Z"}
 {"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2025-10-23T04:25:01.132Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-23T04:26:33.668Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:27:09.636Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:27:09.673Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:27:11.845Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:27:12.378Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:27:18.385Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:27:24.814Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:28:19.976Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:30:09.351Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:30:10.966Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:30:11.196Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:30:11.233Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:30:12.819Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:30:13.332Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:30:18.561Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T04:31:44.335Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:30:50.480Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:30:50.503Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:30:57.657Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:30:58.338Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:31:23.304Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:31:36.036Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:34:45.755Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:34:45.794Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:07.772Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:07.841Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:10.293Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:10.818Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:15.611Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:20.578Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:43.139Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:43.195Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:50.225Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:50.734Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:55.646Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:42:59.848Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:45:08.269Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:45:49.398Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:45:49.488Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:45:51.717Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:45:52.223Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:45:56.738Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:46:02.409Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:46:08.617Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:46:53.876Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:46:57.523Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:47:22.814Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:47:38.396Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:51:16.247Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:51:16.282Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:51:20.650Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:51:21.161Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:51:27.409Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:51:34.704Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:20.049Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:20.309Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:23.270Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:23.781Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:31.530Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:31.559Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:36.143Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:36.653Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:42.917Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:48.751Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:54.407Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:54.408Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:58.220Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:53:58.731Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-23T05:59:38.469Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:21:34.761Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:21:34.778Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:21:35.538Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:21:35.562Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:21:36.811Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:21:36.831Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:46:06.885Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:46:06.890Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:46:08.971Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:46:09.488Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:53:50.672Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:53:50.679Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:54:04.834Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:54:06.843Z"}
+{"level":"info","message":"REDIS GET: session:c52300e0-bc1e-4040-a3c0-91bf1692c923","timestamp":"2025-10-23T07:54:13.155Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T02:13:54.570Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:31:24.490Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:34:19.222Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:35:26.931Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:36:20.878Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:36:51.328Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:37:51.507Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:38:42.073Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:40:06.273Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:40:09.414Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:40:15.980Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:40:30.416Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:40:34.264Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:40:43.511Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:41:19.061Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:41:23.700Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:42:05.459Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:42:11.058Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:42:17.622Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:42:22.754Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:42:36.540Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:42:57.643Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:43:13.160Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:43:23.444Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:43:27.877Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:43:34.012Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:43:39.050Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:43:47.232Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:44:08.861Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:44:24.059Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:46:20.912Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:49:04.192Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:49:07.706Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:50:05.257Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:51:33.632Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:51:40.910Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:54:06.414Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:54:20.156Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:55:58.570Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:58:09.937Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:59:40.373Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T04:59:46.731Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:00:59.635Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:01:05.665Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:01:20.383Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:06:09.663Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:07:16.799Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:07:24.505Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:13:09.367Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:13:13.261Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:13:31.104Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:14:17.366Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:14:56.353Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-24T05:38:52.599Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2025-10-24T05:39:05.610Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:39:37.499Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:46:16.548Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:46:21.109Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:53:09.851Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:54:00.297Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:54:57.484Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:56:42.729Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:57:54.048Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:58:38.457Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T05:58:50.605Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:01:36.082Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:01:40.733Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:01:41.137Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:02:40.113Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:02:44.252Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:02:44.543Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:03:37.327Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:03:41.823Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:03:41.860Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:04:17.390Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:04:22.401Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:04:22.418Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:04:37.171Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:04:41.580Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:04:41.578Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:05:08.812Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:05:16.168Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:05:16.181Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:05:53.368Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:05:58.085Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:05:58.366Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:11:55.080Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:12:58.172Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:13:05.410Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:13:10.073Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:13:54.647Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:14:06.007Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:14:24.216Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:14:30.019Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:18:23.535Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:18:26.839Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:18:46.933Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:18:52.576Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:19:49.092Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:19:56.543Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:20:30.172Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:20:38.986Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:23:08.065Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:23:13.654Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:25:15.367Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:27:13.556Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:29:31.109Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:30:31.848Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:33:01.864Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:33:22.167Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:34:44.381Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:35:47.470Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:36:58.413Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2025-10-24T06:37:21.662Z"}
