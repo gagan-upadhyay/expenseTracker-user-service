@@ -71,6 +71,7 @@ export const checkPasswordService = async(req, res)=>{
 }
 
 export const updateUserService = async(req, res)=>{
+    console.log("Value of req.body:\n", req.body);
     return res.status(200).json({message:"updateUser hit"});
 }
 

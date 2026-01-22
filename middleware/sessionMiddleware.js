@@ -1,6 +1,6 @@
 import { RedisStore } from 'connect-redis';
 import session from 'express-session';
-import getRedisClient from '../utils/redisConnection.js';
+import {getRedisClient} from '../config/redisConnection.js';
 
 const sessionMiddleware = session({
     store: new RedisStore({client:getRedisClient}),

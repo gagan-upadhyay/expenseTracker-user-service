@@ -10,9 +10,12 @@
   "license": "ISC",
   "author": "Gagan Upadhyay",
   "type": "module",
+  "jest":{
+    "transform":{}
+  },
   "main": "index.js",
   "scripts": {
-    "test-windows": "node --experimental-vm-modules --trace-warnings ./node_modules/jest/bin/jest.js",
+    "test": "node --experimental-vm-modules --trace-warnings ./node_modules/jest/bin/jest.js",
     "test-unix": "node --experimental-vm-modules node_modules/.bin/jest",
     "dev": "nodemon start"
   },

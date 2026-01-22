@@ -1,7 +1,7 @@
 import { logger } from '../../config/logger.js';
 import handleServerError from '../../utils/handleError.js';
 import { deleteUser } from '../model/userModel.js';
-import {changePasswordService, checkPasswordService, checkPasswordTypeService, getUserById} from '../service/userService.js'
+import {changePasswordService, checkPasswordService, checkPasswordTypeService, getUserById, updateUserService} from '../service/userService.js'
 
 export const updateUserController=(req, res)=> updateUserService(req, res);
 

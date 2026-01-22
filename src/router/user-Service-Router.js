@@ -23,5 +23,13 @@ userRouter.put('/update-user', verifySession, updateUserController);
 userRouter.post('/check-password', verifySession, checkPasswordController);
 userRouter.put('/change-password', verifySession, changePasswordController)
 
+//suggestions:
+
+// GET    /users/me                    (was /api/v1/user)
+// PATCH  /users/me                    (was /update-user)
+// DELETE /users/me                    (was /delete-user)
+// GET    /users/me/password-type
+// POST   /users/me/password/check     (was /check-password)
+// PUT    /users/me/password           (was /change-password)
 
 export default userRouter;
