@@ -1,7 +1,7 @@
 # Docs for the Azure Web Apps Deploy action: https://github.com/Azure/webapps-deploy
 # More GitHub Actions for Azure: https://github.com/Azure/actions
 
-name: Build and deploy Node.js app to Azure Web App - expenseTracker
+name: Build and deploy Node.js app to Azure Web App - expenseTrackerUserAPI
 
 on:
   push:
@@ -51,15 +51,15 @@ jobs:
       - name: Login to Azure
         uses: azure/login@v2
         with:
-          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_B285F8E59BAC49C6B48D826D77B9E386 }}
-          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_218C97DE0D5548319C3FAC6556041F29 }}
-          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_99CA0AE9D72D4C7EBC0A81FC5CE8D236}}
+          client-id: ${{ secrets.AZUREAPPSERVICE_CLIENTID_1388A37D957F4B349A106DD7C4233EB6 }}
+          tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_5D7713218588409D9745C926A1E3CACF }}
+          subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_0DEF330229DB43E69A8601B75465BAEC }}
 
       - name: 'Deploy to Azure Web App'
         id: deploy-to-webapp
         uses: azure/webapps-deploy@v3
         with:
-          app-name: 'expenseTrackerexpenseTracker-userService'
+          app-name: 'expenseTrackerUserAPI'
           slot-name: 'Production'
           package: .
           
