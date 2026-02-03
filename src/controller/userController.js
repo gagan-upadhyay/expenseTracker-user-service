@@ -12,16 +12,16 @@ export const getPasswordTypeController=(req, res) => checkPasswordTypeService(re
 export async function getUserByIdController(req, res){
     try{
         const result = await getUserById(req.user.id);
-        console.log("Value of result from controller:\n", result);
+        // console.log("Value of result from controller:\n", result);
         if(!result){
             const err = new Error("User not found, please try again");
             return handleServerError(res, err, 'Something went wrong with getting user');
         }
-        console.log("User details fetched", result);
+        // console.log("User details fetched", result);
         return res.status(200).json({message:"User Details fetched successfully.", result});
 
     }catch(err){
-        // logger.error("At controller level:Error while getting information from db:", err);
+        logger.error("At controller level:Error while getting information from db:", err);
         // return res.status(500).json({message:"Something went wrong! please try again later."});
         return handleServerError(res, err,"Something went wrong! please try again later");
     }

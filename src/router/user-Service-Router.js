@@ -15,7 +15,7 @@ const userRouter = express.Router();
 
 
 // Route Starting point: /api/v1/user
-userRouter.get('/', verifySession,getUserByIdController);
+userRouter.get('/', verifySession, getUserByIdController);
 userRouter.get('/password-type', verifySession, getPasswordTypeController);
 userRouter.delete('/delete-user',verifySession, deleteAccountByUserId);
 

@@ -71,7 +71,7 @@ export const checkPasswordService = async(req, res)=>{
 }
 
 export const updateUserService = async(req, res)=>{
-    console.log("Value of req.body:\n", req.body);
+    // console.log("Value of req.body:\n", req.body);
     return res.status(200).json({message:"updateUser hit"});
 }
 
@@ -91,7 +91,7 @@ export const changePasswordService = async(req, res)=>{
             }
             const newHashedPassword = await bcrypt.hash(newPassword, 12); 
             const changePasswordStatus = await changeUserPassword(req.user.id, newHashedPassword);
-            console.log("Value of changedPassword:", changePasswordStatus);
+            // console.log("Value of changedPassword:", changePasswordStatus);
             if(!changePasswordStatus) return res.status(400).json({message:'Error while saving password'});
 
             return res.status(201).json({message:"Password changed"});
