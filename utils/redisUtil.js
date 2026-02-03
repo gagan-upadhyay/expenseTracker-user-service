@@ -1,22 +1,25 @@
 import { logger } from "../config/logger.js";
 import { getRedisClient } from "../config/redisConnection.js";
-// import { redisClient } from "../config/redisConnection.js";
 
-const redisClient = await getRedisClient();
+const getClient = async ()=>{
+    return await getRedisClient();
+}
 
 export const redisSet = async(key, value, options={})=>{
     try{
-        await redisClient.set(key, value, options);
+        const client = await getClient();
+        await client.set(key, value, options);
         logger.info(`REDIS SET: ${key}`);
     }catch(err){
         logger.error(`Redis SET error for key ${key}:`, err);
-    throw err;
+        throw err;
     }
 };
 
 export const redisGet = async(key)=>{
     try{
-        const value = await redisClient.get(key);
+        const client = await getClient();
+        const value = await client.get(key);
         logger.info(`REDIS GET: ${key}`);
         return value;
     }catch(err){
@@ -27,7 +30,8 @@ export const redisGet = async(key)=>{
 
 export const redisDel = async(key)=>{
     try{
-        await redisClient.del(key);
+        const client = await getClient();
+        await client.del(key);
         logger.info(`REDIS Del: ${key}`);
     }catch(err){
         logger.error(`REDIS DEL ERROR for ${key}`, err);
@@ -37,7 +41,8 @@ export const redisDel = async(key)=>{
 
 export const redisExist = async(key)=>{
     try{
-        const exists = await redisClient.exists(key);
+        const client = await getClient();
+        const exists = await client.exists(key);
         if(exists) {logger.info(`Key ${key} exists`); return exists}
         else {logger.info(`Key ${key} doesn't exists`); return null;}
     }catch(err){

@@ -2,13 +2,7 @@ import request from 'supertest';
 import app from '../index.js';
 
 describe('GET /', ()=>{
-    let server;
-    beforeAll(()=>{
-        server=app.listen(5000)
-    });
-    afterAll(()=>{
-        server.close();
-    })
+    // No need to start the server; supertest will use the express app directly.
 
     it('Should return 200 with Welcome message', async()=>{
         const res = await request(app)

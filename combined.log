@@ -5274,3 +5274,36 @@
 {"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2026-02-03T13:21:38.587Z"}
 {"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2026-02-03T13:22:46.252Z"}
 {"level":"info","message":"REDIS GET: session:2b40d5bd-8344-430c-ba57-37488598d77d","timestamp":"2026-02-03T13:22:48.876Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T13:57:46.757Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T13:58:04.146Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T13:58:39.810Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T13:59:08.704Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T13:59:17.981Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T13:59:46.454Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:00:14.288Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:00:18.479Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:02:26.936Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:02:31.564Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:06:10.527Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:11:58.750Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:12:09.953Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:13:27.778Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:13:33.654Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:13:52.137Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:14:44.273Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:15:22.123Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:15:36.427Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:15:51.463Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:16:02.606Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:16:20.695Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:16:43.878Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:17:08.895Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:18:20.089Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:18:59.243Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:19:16.042Z"}
+{"level":"info","message":"Graceful shutdown initiated","timestamp":"2026-02-03T14:24:39.347Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:24:47.655Z"}
+{"level":"info","message":"Graceful shutdown initiated","timestamp":"2026-02-03T14:25:52.977Z"}
+{"level":"info","message":"user-service is running on port 5001","timestamp":"2026-02-03T14:27:25.650Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-02-03T14:27:30.616Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-02-03T14:27:33.394Z"}

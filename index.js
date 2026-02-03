@@ -66,13 +66,24 @@ app.use('/api/v1/user',userRouter);
 
 
 
-const server = app.listen(process.env.USER_SERVICE_PORT, ()=>{
-    logger.info(`user-service is running on port ${process.env.USER_SERVICE_PORT}`);
-})
+if(process.env.NODE_ENV !== 'test'){
+    const server = app.listen(process.env.USER_SERVICE_PORT, ()=>{
+        logger.info(`user-service is running on port ${process.env.USER_SERVICE_PORT}`);
+    })
 
-setupGracefulShutDown(server, [
-    async()=>getRedisClient.disconnect(),
-    async()=> pool.end(),
-])
+    setupGracefulShutDown(server, [
+        async ()=>{
+            try{
+                const client = await getRedisClient();
+                if (client && typeof(client.disconnect) === 'function') {
+                    await client.disconnect();
+                }
+            }catch(err){
+                logger.error('Error disconnecting redis client', err);
+            }
+        },
+        async()=> pool.end(),
+    ])
+}
 
 export default app;
