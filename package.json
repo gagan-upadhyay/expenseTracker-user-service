@@ -17,9 +17,7 @@
   "scripts": {
     "test": "node --experimental-vm-modules --trace-warnings ./node_modules/jest/bin/jest.js",
     "test-unix": "node --experimental-vm-modules node_modules/.bin/jest",
-    "dev": "nodemon start",
-    "build":"node build"
-
+    "dev": "nodemon start"
   },
   "dependencies": {
     "@dotenvx/dotenvx": "^1.48.4",
