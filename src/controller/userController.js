@@ -18,7 +18,7 @@ export async function getUserByIdController(req, res){
             return handleServerError(res, err, 'Something went wrong with getting user');
         }
         // console.log("User details fetched", result);
-        return res.status(200).json({message:"User Details fetched successfully.", result});
+        return res.status(200).json({success:true, message:"User Details fetched successfully.", result});
 
     }catch(err){
         logger.error("At controller level:Error while getting information from db:", err);
@@ -28,12 +28,21 @@ export async function getUserByIdController(req, res){
 }
 
 export async function deleteAccountByUserId(req, res){
-    try{
+    try {
         const userId = req.user.id;
         const result = await deleteUser(userId);
-        if(!result) {
-            const error=new Error('User deletion failed or returned no result');
-            return handleServerError(res, err, 'Something went wrong with user deletion');
+
+        if (!result) {
+            const error = new Error('User deletion failed or returned no result');
+            return handleServerError(res, error, 'Something went wrong with user deletion');
         }
-    }catch(err) {return handleServerError(res, err, "something went wrong with userId");}
+
+        return res.status(200).json({
+            success: true,
+            message: "User deleted successfully"
+        });
+
+    } catch(err) {
+        return handleServerError(res, err, "Something went wrong with userId");
+    }
 }

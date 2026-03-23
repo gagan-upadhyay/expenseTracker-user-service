@@ -10,14 +10,11 @@
   "license": "ISC",
   "author": "Gagan Upadhyay",
   "type": "module",
-  "jest":{
-    "transform":{}
-  },
   "main": "index.js",
   "scripts": {
-    "test": "node --experimental-vm-modules --trace-warnings ./node_modules/jest/bin/jest.js",
-    "test-unix": "node --experimental-vm-modules node_modules/.bin/jest",
-    "dev": "nodemon start"
+    "test": "cross-env NODE_ENV=test node --experimental-vm-modules ./node_modules/jest/bin/jest.js --runInBand --detectOpenHandles",
+    "dev": "nodemon start",
+    "start": "node index.js"
   },
   "dependencies": {
     "@dotenvx/dotenvx": "^1.48.4",
@@ -37,6 +34,8 @@
     "winston": "^3.17.0"
   },
   "devDependencies": {
+    "cross-env": "^10.1.0",
+    "esbuild": "^0.27.2",
     "jest": "^30.2.0",
     "supertest": "^7.1.4"
   }

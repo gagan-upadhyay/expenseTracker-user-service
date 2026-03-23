@@ -1,7 +1,6 @@
 import { pgConnectTest } from '../config/db.js';
 import { logger } from '../config/logger.js';
 import { getRedisClient } from '../config/redisConnection.js';
-import app from '../index.js'
 
 export  function setupHealthCheckUp(app){
     app.get('/healthz', (req, res)=>{

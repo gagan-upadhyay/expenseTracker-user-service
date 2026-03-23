@@ -5,7 +5,7 @@ import { logger } from './config/logger.js';
 import compression from 'compression';
 import userRouter from './src/router/user-Service-Router.js';
 import cookieParser from 'cookie-parser';
-import sessionMiddleware from './middleware/sessionMiddleware.js';
+// import sessionMiddleware from './middleware/sessionMiddleware.js';
 import { helmetConfig } from './config/helmet.config.js';
 import setupGracefulShutDown from './utils/setupGracefulShutdown.js';
 import {getRedisClient} from './config/redisConnection.js';
@@ -65,25 +65,15 @@ setupHealthCheckUp(app);
 app.use('/api/v1/user',userRouter);
 
 
-
-if(process.env.NODE_ENV !== 'test'){
-    const server = app.listen(process.env.USER_SERVICE_PORT, ()=>{
-        logger.info(`user-service is running on port ${process.env.USER_SERVICE_PORT}`);
-    })
+let server = null 
+if(process.env.NODE_ENV!=="test"){
+     server = app.listen(process.env.USER_SERVICE_PORT || 5001, "0.0.0.0", () => {
+        logger.info(`User service running on ${process.env.USER_SERVICE_PORT}`);
+    });
 
     setupGracefulShutDown(server, [
-        async ()=>{
-            try{
-                const client = await getRedisClient();
-                if (client && typeof(client.disconnect) === 'function') {
-                    await client.disconnect();
-                }
-            }catch(err){
-                logger.error('Error disconnecting redis client', err);
-            }
-        },
-        async()=> pool.end(),
-    ])
+        async()=>await getRedisClient.disconnect(),
+        async()=>await pool.end()
+    ]);
 }
-
-export default app;
+export {app, server};
