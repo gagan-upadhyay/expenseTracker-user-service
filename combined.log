@@ -6,3 +6,5 @@
 {"level":"info","message":"User service running on 5001","timestamp":"2026-03-23T13:38:21.885Z"}
 {"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-23T13:39:50.979Z"}
 {"level":"info","message":"Graceful shutdown initiated","timestamp":"2026-03-23T13:39:59.418Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-23T16:20:53.371Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-23T16:21:53.302Z"}
