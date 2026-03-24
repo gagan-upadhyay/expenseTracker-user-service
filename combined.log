@@ -95,3 +95,5 @@
 {"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-24T09:41:37.436Z"}
 {"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2026-03-24T10:11:34.855Z"}
 {"level":"info","message":"REDIS GET: session:91679cc4-fcad-4ce3-9fee-aee82dd361a6","timestamp":"2026-03-24T10:11:37.022Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-24T10:25:21.211Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-24T11:06:39.930Z"}
