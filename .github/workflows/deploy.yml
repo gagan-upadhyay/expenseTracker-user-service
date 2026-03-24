@@ -48,4 +48,4 @@ jobs:
                  docker pull ${{secrets.DOCKER_USERNAME}}/user-service:latest
                  docker stop user-service || true
                  docker rm user-service || true
-                 docker run -d --env-file /home/azureuser/user.env -p 5001:5001 --name user-service ${{secrets.DOCKER_USERNAME}}/user-service:latest
+                 docker run -d --env-file /home/azureuser/user.env -p 5001:5001 --restart unless-stopped --name user-service ${{secrets.DOCKER_USERNAME}}/user-service:latest
