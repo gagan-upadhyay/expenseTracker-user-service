@@ -1,47 +1,64 @@
 import { createClient } from "redis";
-import '@dotenvx/dotenvx/config';
 
-const redisClient = createClient({
-    username:process.env.REDIS_USERNAME,
-    password:process.env.REDIS_PASSWORD,
-    socket:{
-        host:process.env.REDIS_HOST,
-        port:process.env.REDIS_PORT,
-    }
-});
-let isConnected = false;
-async function connectWithRetry(retries = 15, delay = 1000) {
-  for (let attempt = 1; attempt <= retries; attempt++) {
-    try {
-      await redisClient.connect();
-      console.log("✅ Redis connected");
-      isConnected = true;
-      break;
-    } catch (error) {
-      if(error.name === "ConnectionTimeoutError") {
-        console.warn(`⚠️ Redis timeout. Retrying ${attempt}/${retries}...`);
-        await new Promise((res) => setTimeout(res, delay * attempt));
-      } else {
-        console.error("❌ Redis connection failed:", error);
-        break;
-      }
-    }
-  }
+let redisClient;
+
+async function createRedisClient() {
+  const client = createClient({
+    username: process.env.REDIS_USERNAME,
+    password: process.env.REDIS_PASSWORD,
+    socket: {
+      host: process.env.REDIS_HOST,
+      port: process.env.REDIS_PORT,
+
+      // ✅ Auto reconnect strategy
+      reconnectStrategy: (retries) => {
+        console.log(`🔁 Redis reconnect attempt #${retries}`);
+        return Math.min(retries * 100, 3000); // backoff
+      },
+    },
+  });
+
+  // ✅ MUST: Prevent crash
+  client.on("error", (err) => {
+    console.error("❌ Redis Error:", err);
+  });
+
+  client.on("connect", () => {
+    console.log("🟡 Redis connecting...");
+  });
+
+  client.on("ready", () => {
+    console.log("✅ Redis ready");
+  });
+
+  client.on("end", () => {
+    console.log("🔴 Redis connection closed");
+  });
+
+  await client.connect();
+
+  return client;
 }
 
-redisClient.on("error", async (error) => {
-  console.error(" ❌ Redis client error:", error);
-  if (error.name === "ConnectionTimeoutError") {
-    isConnected = false;
-    console.log("Inside error, value if error.name\n",error.name );
-    await connectWithRetry();
-  }
-});
-
-export async function getRedisClient() {
-  if (!isConnected) {
-    console.log('Value of isconnected', isConnected);
-    await connectWithRetry();
+async function getRedisClient() {
+  if (!redisClient) {
+    redisClient = await createRedisClient();
   }
   return redisClient;
 }
+
+// TEST MODE
+if (process.env.NODE_ENV === "test") {
+  console.log("🔕 Redis disabled for tests");
+
+  redisClient = {
+    get: async () => null,
+    set: async () => {},
+    del: async () => {},
+    connect: async () => {},
+    disconnect: async () => {},
+    on: () => {},
+  };
+}
+
+export { getRedisClient };

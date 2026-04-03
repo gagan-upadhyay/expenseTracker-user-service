@@ -108,3 +108,688 @@
 {"level":"info","message":"User service running on 5001","timestamp":"2026-03-24T11:24:45.676Z"}
 {"level":"info","message":"User service running on 5001","timestamp":"2026-03-24T11:25:15.924Z"}
 {"level":"info","message":"User service running on 5001","timestamp":"2026-03-24T11:25:23.218Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-24T11:25:30.655Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:23:23.196Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:23:25.566Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:29:51.374Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:29:54.292Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:29:58.239Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:29:58.813Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:30:33.813Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:30:35.977Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:30:41.879Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:30:42.461Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:30:52.653Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:30:53.203Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:31:34.909Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:31:36.982Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:35:43.114Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:35:44.317Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:35:46.345Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:35:56.078Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:35:56.633Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:41:30.457Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:41:33.165Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:41:35.487Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:42:53.269Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:42:55.767Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:43:15.957Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:43:18.284Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:44:55.510Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:44:55.798Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:45:16.925Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:47:14.072Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:47:16.361Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:47:24.089Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:47:24.661Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:47:51.037Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:47:53.331Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:49:37.519Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:49:39.779Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:50:02.391Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:50:04.643Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:50:05.197Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:50:18.389Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:50:20.374Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:50:45.108Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:50:47.517Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:51:51.558Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:51:53.713Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:54:17.149Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:50.061Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:50.350Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:50.641Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:50.923Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:51.208Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:51.492Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:51.776Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:52.062Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:52.344Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:52.626Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:52.908Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:53.201Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:53.490Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:53.782Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:54.063Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:54.350Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:54.635Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:54.924Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:55.477Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:55:55.759Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:30.935Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:31.268Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:31.573Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:31.883Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:32.190Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:32.474Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:32.757Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:33.047Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:33.330Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:33.613Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:33.898Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:34.182Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:34.544Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:34.853Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:35.154Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:35.465Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:35.760Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:36.089Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:36.609Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:56:37.002Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:21.485Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:23.787Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:24.213Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:24.530Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:24.847Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:25.171Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:25.522Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:25.909Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:26.356Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:26.940Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:27.846Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:56.840Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:57.179Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:57.467Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:57.749Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:58.039Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:58.332Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:58.614Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:58.897Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:59.182Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:59.465Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:58:59.750Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:59:00.038Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:59:00.324Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:59:00.609Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:59:00.894Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:59:01.177Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:59:01.487Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:59:01.793Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:59:02.349Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T04:59:02.717Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:01:23.669Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:01:25.940Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:02:51.040Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:02:53.419Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:05:26.497Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:05:28.862Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:12:19.059Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:12:22.046Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:15:46.724Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:15:48.950Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:17:01.094Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T05:17:03.401Z"}
+{"level":"info","message":"Graceful shutdown initiated","timestamp":"2026-03-25T06:16:42.153Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-25T06:16:59.146Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-25T06:25:06.278Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-25T06:25:42.919Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:27:25.782Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:27:27.839Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:31:15.100Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:31:17.374Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:32:49.838Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:32:52.099Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:35:14.962Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:35:17.348Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:06.812Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:09.118Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:18.398Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:18.963Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:21.028Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:21.598Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:32.811Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:35.025Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:56.382Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:36:58.520Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:39:05.382Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:39:07.940Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:39:23.394Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:39:25.659Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:39:29.189Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:39:29.747Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:45:07.686Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:45:09.988Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:48:04.812Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:48:07.117Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:48:15.238Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:48:15.991Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:48:16.554Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:48:17.126Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:51:06.167Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T06:51:08.745Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T07:04:07.761Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T07:04:10.085Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T07:30:24.223Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T07:30:35.704Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T07:30:52.350Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T07:30:54.394Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T07:39:20.393Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T07:39:22.470Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:16:53.165Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:16:55.478Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:17:59.882Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:19:13.029Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:19:15.428Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:19:18.360Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:19:20.522Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:19:21.183Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:19:24.097Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:19:24.705Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:19:28.225Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:19:28.794Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:22:47.221Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:22:49.372Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:26:44.322Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:26:47.082Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:22.055Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:22.990Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:23.873Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:24.847Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:25.800Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:26.747Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:27.718Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:28.875Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:29.999Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:31:31.434Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:27.339Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:27.346Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:29.009Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:29.009Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:29.906Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:29.907Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:30.788Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:30.791Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:31.667Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:31.668Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:32.886Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:32.887Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:33.882Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:33.883Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:34.911Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:34.920Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:36.113Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:36.117Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:37.501Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:36:37.502Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:04.195Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:04.228Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:05.820Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:05.832Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:06.680Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:06.681Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:07.618Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:07.619Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:08.534Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:08.534Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:09.427Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:09.462Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:10.357Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:10.972Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:11.357Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:12.001Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:12.625Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:13.213Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:13.990Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:37:14.592Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:38:22.166Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:38:22.194Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:46:28.937Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:46:32.732Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:46:33.273Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:52:51.038Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:52:52.559Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:52:53.656Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:52:54.672Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:52:56.549Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:52:57.723Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:52:59.127Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:53:00.607Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:53:03.065Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:53:04.941Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:49.687Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:49.693Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:51.139Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:51.151Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:52.056Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:52.068Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:52.974Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:53.033Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:53.837Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:53.898Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:54.731Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:54.784Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:55.672Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:55.743Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:56.690Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:56.727Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:57.794Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:57.827Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:59.163Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T08:55:59.208Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-25T10:30:31.787Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:31:58.035Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:32:00.384Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:35:30.802Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:35:35.458Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:35:48.404Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:35:50.805Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:37:42.328Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:37:44.466Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:26.026Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:27.996Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:29.956Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:31.795Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:33.643Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:35.585Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:37.537Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:38.547Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:39.673Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:46:41.045Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:10.671Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:10.945Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:11.633Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:11.830Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:12.493Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:12.699Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:13.347Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:13.553Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:14.175Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:14.411Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:15.045Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:15.279Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:15.937Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:16.172Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:16.985Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:17.289Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:18.102Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:18.379Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:19.459Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:51:19.790Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:52:19.855Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T10:52:21.890Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T11:25:15.111Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T11:25:17.231Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:17:15.413Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:17:17.734Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:17:36.420Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:17:38.724Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:18:08.097Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:18:10.544Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:18:14.312Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:07.054Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:07.331Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:07.921Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:08.177Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:08.771Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:09.162Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:09.732Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:10.033Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:10.608Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:10.905Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:11.496Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:11.791Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:12.402Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:12.707Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:13.437Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:13.707Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:14.585Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:14.854Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:15.941Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:19:16.206Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:20:12.240Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:20:15.506Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:20:31.916Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:20:34.407Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:34:24.288Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:34:24.705Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:34:28.815Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:34:29.196Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:34:31.496Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:34:31.646Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:34:33.938Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:34:34.086Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:39.109Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:39.921Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:40.176Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:40.242Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:40.476Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:40.576Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:40.774Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:40.938Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:41.108Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:41.271Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:41.463Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:41.609Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:41.876Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:41.972Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:42.294Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:42.431Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:42.923Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:43.030Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:43.744Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:43.874Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:54.406Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:54.939Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:55.273Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:55.274Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:55.623Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:55.768Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:55.952Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:56.208Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:56.293Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:56.555Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:56.642Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:56.901Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:57.075Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:57.334Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:57.551Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:57.823Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:58.101Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:58.386Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:45:58.925Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:00.178Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:47.236Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:47.518Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:47.560Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:47.824Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:47.908Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:48.124Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:48.227Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:48.436Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:48.566Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:48.760Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:48.926Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:49.109Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:49.369Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:49.513Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:50.199Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:50.210Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:50.847Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:50.848Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:51.644Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:46:51.661Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:45.231Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:46.089Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:46.090Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:46.626Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:46.636Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:46.925Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:46.933Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:47.223Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:47.244Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:47.536Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:47.684Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:47.899Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:48.116Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:48.526Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:48.753Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:48.999Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:49.379Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:49.642Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:50.182Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T12:59:50.453Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:42.082Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:42.364Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:42.389Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:42.688Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:42.689Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:42.998Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:42.999Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:43.594Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:43.594Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:43.909Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:43.923Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:44.236Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:44.283Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:44.600Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:44.704Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:45.015Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:45.247Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:45.558Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:46.046Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:00:46.354Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:42.791Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:43.066Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:43.104Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:43.364Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:43.391Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:44.224Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:44.225Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:44.621Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:44.621Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:44.922Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:44.949Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:45.244Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:45.300Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:45.601Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:45.713Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:46.018Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:46.259Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:46.578Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:47.058Z"}
+{"level":"info","message":"REDIS GET: session:c64e68e9-42d3-4a91-893c-025e3749a576","timestamp":"2026-03-25T13:01:47.378Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-25T13:20:56.348Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-25T13:22:32.035Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-26T12:31:52.878Z"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech","level":"error","message":"Error at user-service level fetching userDetails: getaddrinfo ENOTFOUND ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech","stack":"Error: getaddrinfo ENOTFOUND ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:12:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:6:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:14:24)","syscall":"getaddrinfo","timestamp":"2026-03-26T17:16:05.347Z"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech","level":"error","message":"Error at user-service level fetching userDetails: getaddrinfo ENOTFOUND ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech","stack":"Error: getaddrinfo ENOTFOUND ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:12:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:6:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:14:24)","syscall":"getaddrinfo","timestamp":"2026-03-26T17:16:05.605Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-28T00:54:59.577Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-28T16:31:34.622Z"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech","level":"error","message":"Error at user-service level fetching userDetails: getaddrinfo ENOTFOUND ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech","stack":"Error: getaddrinfo ENOTFOUND ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:12:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:6:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:14:24)","syscall":"getaddrinfo","timestamp":"2026-03-28T17:01:35.565Z"}
+{"code":"ENOTFOUND","errno":-3008,"hostname":"ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech","level":"error","message":"Error at user-service level fetching userDetails: getaddrinfo ENOTFOUND ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech","stack":"Error: getaddrinfo ENOTFOUND ep-broad-king-a48rk492-pooler.us-east-1.aws.neon.tech\n    at C:\\Code\\ExpenseTrackerApp\\server\\expenseTracker-user-service\\node_modules\\pg-pool\\index.js:45:11\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async findById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/model/userModel.js:12:23)\n    at async getUserById (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/service/userService.js:6:18)\n    at async getUserByIdController (file:///C:/Code/ExpenseTrackerApp/server/expenseTracker-user-service/src/controller/userController.js:14:24)","syscall":"getaddrinfo","timestamp":"2026-03-28T17:01:35.625Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-29T08:43:17.443Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T09:17:53.856Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T09:18:00.291Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T09:24:32.382Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T09:24:54.182Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T09:25:06.700Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T09:25:24.162Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T09:28:47.785Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T09:29:48.814Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T09:29:51.702Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:12:49.823Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:13:08.433Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:13:10.481Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:13:19.117Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:13:30.354Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:13:32.986Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:13:41.574Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:13:45.021Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:14:21.483Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:21:31.474Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:21:34.195Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:21:39.805Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:21:50.252Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:21:54.274Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:22:02.587Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:22:14.677Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:23:11.364Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:23:21.107Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:23:24.990Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:44:05.719Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T10:44:08.794Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T11:09:45.846Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T11:10:46.253Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T11:10:54.033Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T11:11:37.958Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T11:11:41.996Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-30T11:11:45.497Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-31T11:31:52.398Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-31T12:21:43.358Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-31T15:47:59.557Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-03-31T15:48:04.352Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-01T01:22:52.448Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-01T01:23:00.109Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-01T01:23:09.367Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-01T01:23:19.359Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-01T01:23:24.881Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T03:08:59.657Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T03:11:05.019Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T03:11:08.775Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T03:11:16.999Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T03:11:19.261Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T03:11:27.517Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T03:11:31.107Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T08:17:11.966Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:07:00.438Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:42:12.510Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:42:36.230Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:43:43.257Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:44:32.569Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:46:06.052Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:46:09.232Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:46:11.925Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:46:16.039Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:47:19.246Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:47:25.375Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:47:29.980Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:47:32.441Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:47:37.030Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:47:52.426Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:47:57.396Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:47:59.905Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:48:11.986Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T11:57:57.086Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:01:55.579Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:02:01.753Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:02:05.831Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:02:48.135Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:02:51.414Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:02:55.495Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:06:20.412Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:06:32.161Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:06:41.092Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:06:54.222Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:24:43.568Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:24:49.158Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:24:52.553Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:25:00.425Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:25:11.030Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:25:13.413Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:25:19.698Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:25:30.819Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:25:33.712Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:25:41.470Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:26:09.542Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:26:17.460Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:26:22.737Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:36:57.559Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:37:03.094Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:37:20.000Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:37:34.040Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:37:36.976Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:37:39.418Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:37:45.311Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:37:47.929Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:38:20.436Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:38:29.485Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:38:35.162Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:38:40.468Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:38:46.219Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:38:49.099Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:38:57.285Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:39:02.874Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:39:07.654Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:39:15.457Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:39:57.816Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:40:10.804Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:44:44.248Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:44:51.830Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:44:58.688Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:45:25.418Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:45:31.093Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:50:57.854Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:51:00.504Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:52:13.445Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:52:17.950Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:52:20.308Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:54:16.407Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:54:34.466Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:54:46.693Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:54:53.096Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:54:59.331Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T12:55:12.689Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:02:53.019Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:03:01.604Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:03:04.974Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:03:08.865Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:03:28.584Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:03:33.845Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:03:36.425Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:03:39.551Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:03:43.415Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:19:22.135Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:19:27.447Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:19:29.980Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:19:39.264Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:19:46.382Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:19:50.601Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:19:53.707Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:26:09.143Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:26:14.521Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:26:23.993Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:26:33.319Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:26:49.280Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:27:37.090Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:27:49.005Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:27:57.511Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-02T13:28:03.748Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T07:09:37.246Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T07:16:39.780Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T07:16:43.725Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T07:16:50.427Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T07:16:55.852Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:12:38.094Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:12:45.473Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:12:57.057Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:12:59.651Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:13:03.013Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:13:16.531Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:13:20.923Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:13:25.790Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:13:33.061Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:13:40.815Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:13:55.154Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:14:01.064Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:14:08.632Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:14:11.859Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:14:15.535Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:14:21.318Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:14:30.049Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:52:47.673Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:53:01.047Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:53:05.689Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:53:08.224Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:53:20.510Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:53:59.772Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:54:03.662Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:54:17.158Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:54:30.015Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:54:37.553Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:54:44.976Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:55:04.531Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:55:10.652Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:55:18.788Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:55:43.454Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T08:55:46.736Z"}
+{"level":"info","message":"User service running on 5001","timestamp":"2026-04-03T09:01:20.451Z"}

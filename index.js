@@ -27,39 +27,6 @@ app.use(cors(corsOptions));
 app.use(express.json());
 app.use(compression());
 app.use(cookieParser());
-
-
-// const corsOptions = {
-//   origin: function (origin, callback) {
-//     const allowedOrigins = [
-//        'https://expense-tracker-6afeksr0j-gagans-projects-00cb1a77.vercel.app','http://192.168.0.126:3000', 'https://expense-tracker-self-rho-12.vercel.app'
-//     ];
-//     const ipRegex = /^http:\/\/192\.168\.0\.\d{1,3}:3000$/;
-//     if (!origin || allowedOrigins.includes(origin) || ipRegex.test(origin)) {
-//       callback(null, true);
-//     } else {
-//       callback(new Error('Not allowed by CORS'));
-//     }
-//   },
-//   credentials: true
-// };
-// const corsOptions = {
-//   origin: function (origin, callback) {
-//     const allowedOrigins = [
-//       'http://localhost:3000',
-//       'https://expense-tracker-6afeksr0j-gagans-projects-00cb1a77.vercel.app'
-//     ];
-//     const ipRegex = /^http:\/\/192\.168\.0\.\d{1,3}:3000$/;
-//     if (!origin || allowedOrigins.includes(origin) || ipRegex.test(origin)) {
-//       callback(null, true);
-//     } else {
-//       callback(new Error('Not allowed by CORS'));
-//     }
-//   },
-//   credentials: true
-// };
-
-
 app.use(helmetConfig);
 
 // app.use(sessionMiddleware);

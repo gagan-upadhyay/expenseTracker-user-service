@@ -4,9 +4,10 @@ import {
     changePasswordController,
     checkPasswordController, 
     deleteAccountByUserId, 
+    GenerateUploadURL, 
     getPasswordTypeController, 
     getUserByIdController, 
-    updateUserController 
+    updateUserController, 
 } from '../controller/userController.js';
 // import { updateUser } from '../model/userModel.js';
 
@@ -21,7 +22,9 @@ userRouter.delete('/delete-user',verifySession, deleteAccountByUserId);
 
 userRouter.put('/update-user', verifySession, updateUserController);
 userRouter.post('/check-password', verifySession, checkPasswordController);
-userRouter.put('/change-password', verifySession, changePasswordController)
+userRouter.put('/change-password', verifySession, changePasswordController);
+
+userRouter.post('/generate-upload-url', verifySession,GenerateUploadURL);
 
 //suggestions:
 

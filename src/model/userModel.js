@@ -7,7 +7,7 @@ export async function findById(id){
     try{
         const userQuery=
         `
-        SELECT firstname, lastname, email, profile_picture, password, theme FROM users WHERE id=$1
+        SELECT firstname, lastname, email, profile_picture, password, updated_at, created_at, theme FROM users WHERE id=$1
         `
         const user =  await db(userQuery, [id]);
         // console.log("Value of user from userModel:\n", user);
@@ -48,12 +48,15 @@ export const getUserCreds = async(id)=>{
 export async function updateUser(userId,data){
     try{
         // console.log("value of data from model:\n", (data));
-        const allowedFields=['firstname', 'lastname', 'profile_picture', 'email'];
+        const allowedFields=['firstname', 'lastname',  'email', 'profile_picture'];
+
         const filteredData = Object.fromEntries(Object.entries(data).filter(([key])=>allowedFields.includes(key)));
-        // console.log(filteredData);
-        // if(Object.keys(filteredData).length===0) throw new Error('No valid fields to update');
+
+        //Prevent empty update
+        if (Object.keys(filteredData).length === 0) {
+            return null;
+        }
         
-        // console.log(filteredData);
         const fields = Object.keys(filteredData);
         const values = Object.values(filteredData);
         const setClause = fields.map((f,i)=>`"${f}"=$${i+1}`).join(',');
@@ -69,8 +72,8 @@ export async function updateUser(userId,data){
         
     }catch(err){
         logger.error("Error at user-service level updating userdetails", err);
-        console.error('At Model error:\n', err);
-        return err;
+        // console.error('At Model error:\n', err);
+        throw err;
     }
 }
 
@@ -103,6 +106,7 @@ export async function changeUserPassword(userId, newHashedPassword){
         logger.error('Error while changing user password');
     }
 }
+
 
 
 
