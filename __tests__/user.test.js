@@ -30,8 +30,10 @@ jest.unstable_mockModule("../utils/azureblob.js", () => ({
   blobServiceClient: {},
   containerClient: {},
   // Mock any specific functions you export from there, for example:
-  uploadFile: jest.fn(), 
-  deleteFile: jest.fn(),
+  generateUploadSAS: jest.fn(), 
+  generateReadSAS: jest.fn(),
+  deleteFromAzure: jest.fn(),
+  
 }));
 
 // Mock handleServerError
