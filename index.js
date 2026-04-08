@@ -11,6 +11,7 @@ import setupGracefulShutDown from './utils/setupGracefulShutdown.js';
 import {getRedisClient} from './config/redisConnection.js';
 import { pool } from './config/db.js';
 import { setupHealthCheckUp } from './utils/setupHealthcheckUp.js';
+import morgan from 'morgan';
 
 const app = express();
 const corsOptions={
@@ -23,11 +24,26 @@ const corsOptions={
         ],
     credentials:true
 }
-// app.use(cors(corsOptions));
+// if(process.env.NODE_ENV==='development') app.use(cors(corsOptions));
+
 app.use(express.json());
 app.use(compression());
 app.use(cookieParser());
 app.use(helmetConfig);
+
+
+const morganFormat = process.env.NODE_ENV==='production'?'combined':'dev';
+
+if(process.env.NODE_ENV==='development'){
+    app.use(cors(corsOptions))
+}else{
+}
+
+app.use(morgan(morganFormat,{
+    stream:{
+        write:(message)=>logger.info(message.trim(), {context:'HTTP'})
+    }
+}));
 
 // app.use(sessionMiddleware);
 app.get('/', (req, res)=>{

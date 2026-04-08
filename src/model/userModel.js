@@ -86,7 +86,7 @@ export async function deleteUser(userId){
         await db(query, [userId]);
 
     }catch(err){
-        logger.error("Error while deleting user", err);
+        logger.error("Error while deleting user from DB:", err);
         return err;
     }
 }
