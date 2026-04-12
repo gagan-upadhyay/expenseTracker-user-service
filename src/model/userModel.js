@@ -7,7 +7,7 @@ export async function findById(id){
     try{
         const userQuery=
         `
-        SELECT firstname, lastname, email, profile_picture, password, updated_at, created_at, theme FROM users WHERE id=$1
+        SELECT id, firstname, lastname, email, profile_picture, password, updated_at, created_at, base_currency theme FROM users WHERE id=$1
         `
         const user =  await db(userQuery, [id]);
         // console.log("Value of user from userModel:\n", user);
